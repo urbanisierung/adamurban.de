@@ -1,0 +1,11 @@
+{
+	"title" : "Side projects",
+	"services" : [
+		{
+			"logo" : "sharu.png",
+			"title" : "sharu.io",
+			"url" : "https://sharu.io",
+			"description" : "fully decentralized, post-cloud, unstoppable, censorfree, trustless, encrypted, anonymous filesharing"
+		}
+	]
+}

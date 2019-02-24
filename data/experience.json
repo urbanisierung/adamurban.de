@@ -2,14 +2,46 @@
 	"title" : "Experience",
 	"experience" : [
 		{
-			"timeperiod" : "May 2017 - Nov 2017",
-			"company" : "Uber",
-			"description" : "Nunc <br />sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor. "
+			"timeperiod" : "Sep 2017 - Present",
+			"role" : "Cloud Adviser",
+			"company" : "SICK AG",
+			"url" : "https://www.sick.com/",
+			"description" : "Building up a scalable DevOps organization // Introduction of an agile and lean approach // Bridge between product management and R&D // Company-wide consulting"
 		},
 		{
-			"timeperiod" : "Nov 2017 - Present",
-			"company" : "Google",
-			"description" : "Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor. "
+			"timeperiod" : "Nov 2014 - Aug 2017",
+			"role" : "Team Lead Order Management",
+			"company" : "1&1 IONOS",
+			"url" : "https://www.ionos.com/",
+			"description" : "Plan-build-run responsibility for the order management platform of the hosting segment // Introduction of a DevOps environment with 12 developers and operators // Coaching of employees and new team leads // Responsibility for the business domains contract, customer, product and order // Consulting of product management with regard to new product requirements and integrations"
+		},
+		{
+			"timeperiod" : "Aug 2011 - Oct 2014",
+			"role" : "Software Engineer",
+			"company" : "1&1 IONOS",
+			"url" : "https://www.ionos.com/",
+			"description" : "Building executable business processes with jBPM/JBoss // Lead developer for the new business process platform and responsible to launch the first use cases internationally // Close collaboration with ops team to create a common product identification and responsibility"
+		},
+		{
+			"timeperiod" : "Jan 2011 - Jul 2011",
+			"role" : "Research Associate",
+			"company" : "FZI",
+			"url" : "https://www.fzi.de",
+			"description" : "Planned PhD thesis in context of Ambient Assisted Living // Collaboration in the European research project universAAL"
+		},
+		{
+			"timeperiod" : "May 2009 - Dec 2010",
+			"role" : "Software Engineer and Consultant",
+			"company" : "CAMOS",
+			"url" : "https://www.camos.de/",
+			"description" : "Technical consulting about customizations // Building PoCs and customizing CAMOS core products to fit customers needs"
+		},
+		{
+			"timeperiod" : "Oct 2003 - Apr 2009",
+			"role" : "Computer Science",
+			"company" : "KIT",
+			"url" : "http://www.kit.edu/",
+			"description" : "Graduated with Diploma / Master of Science // Master thesis in health care // Specialization in information systems and telematics // Tutor for Bachelor students"
 		}
 	]
 }
