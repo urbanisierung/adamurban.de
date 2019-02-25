@@ -6,6 +6,12 @@
 			"title" : "sharu.io",
 			"url" : "https://sharu.io",
 			"description" : "fully decentralized, post-cloud, unstoppable, censorfree, trustless, encrypted, anonymous filesharing"
+		},
+		{
+			"logo" : "refuel.jpg",
+			"title" : "refuel",
+			"url" : "https://refuel.urbesign.de",
+			"description" : "Annoyed by the fuel apps in Germany I wrote my own little app. Focused on the essentials. If I have time, the application will be more beautiful."
 		}
 	]
 }
