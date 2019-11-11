@@ -2,7 +2,14 @@
 	"title" : "Experience",
 	"experience" : [
 		{
-			"timeperiod" : "Sep 2017 - Present",
+			"timeperiod" : "Jul 2019 - now",
+			"role" : "Software Engineer",
+			"company" : "Camunda",
+			"url" : "https://www.camunda.com/",
+			"description" : "Implement the Camunda Cloud in a remote team."
+		},
+		{
+			"timeperiod" : "Sep 2017 - Jun 2019",
 			"role" : "Cloud Adviser",
 			"company" : "SICK AG",
 			"url" : "https://www.sick.com/",
