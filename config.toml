@@ -1,4 +1,4 @@
-baseURL = "http://www.adamurban.de/"
+baseURL = "https://adamurban.netlify.com/"
 languageCode = "en-us"
 title = "Hey world, I'm Adam"
 theme = "uilite"
